@@ -1,5 +1,5 @@
 
-# Shilapi🏳️‍⚧️
+# Shilapi
 
 **Nothing to see here :(**
 
